@@ -1,1 +1,2 @@
-# outlook
+# outlook-add-in
+ 
